@@ -1,1 +1,5 @@
-printf("The maximum value is 650.");
+#include <stdio.h>
+
+int main() {
+  printf("The maximum value is 650.");
+}
